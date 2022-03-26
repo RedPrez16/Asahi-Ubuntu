@@ -53,6 +53,6 @@ However, if you understand these caveats, and just want to mess around, then fee
 
 ## Support Asahi Linux
 
-This is *not* an official Asahi Linux project, nor is System76 affiliated with the project in any way.
+This is *not* an official Asahi Linux project, nor is Canonical affiliated with the project in any way.
 
 However, if you wish to give support to the Asahi project, then please [support the main developer, marcan, on Github Sponsors](https://github.com/sponsors/marcan)!
