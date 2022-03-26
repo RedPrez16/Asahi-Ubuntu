@@ -1,6 +1,6 @@
-# Pop!_OS for M1
+# Ubuntu for M1
 
-This is a script for compiling a Pop!_OS image compatible with the Asahi Linux installer.
+This is a script for compiling an Ubuntu image compatible with the Asahi Linux installer.
 
 ## Compiling
 
